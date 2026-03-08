@@ -1,0 +1,3 @@
+C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/C-programming-/project_1/build/CMakeFiles/project_1.dir
+C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/C-programming-/project_1/build/CMakeFiles/edit_cache.dir
+C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/C-programming-/project_1/build/CMakeFiles/rebuild_cache.dir
