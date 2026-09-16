@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pippo_su/github_repos/C-programming-/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -o CMakeFiles/hello_world.dir/main.cpp.o -c \"/home/pippo_su/github_repos/C-programming-/Hello World/main.cpp\"",
+  "file": "/home/pippo_su/github_repos/C-programming-/Hello World/main.cpp",
+  "output": "/home/pippo_su/github_repos/C-programming-/build/CMakeFiles/hello_world.dir/main.cpp.o"
+}
+]
