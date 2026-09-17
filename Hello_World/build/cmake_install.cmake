@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/C-programming-/project_1
+# Install script for directory: C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/Hello_World
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/project_1")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Hello_World")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,7 +40,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/C-programming-/project_1/build/install_local_manifest.txt"
+  file(WRITE "C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/Hello_World/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -56,6 +56,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/C-programming-/project_1/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/Hello_World/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

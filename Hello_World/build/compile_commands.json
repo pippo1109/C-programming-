@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/Hello_World/build",
+  "command": "C:\\Users\\felip\\scoop\\apps\\gcc\\current\\bin\\g++.exe -Wall -Wextra -std=c++17 -Wall -Wextra -std=c++17 -O0 -g3 -o CMakeFiles\\Hello_World.dir\\main.cpp.obj -c \"C:\\Users\\felip\\OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA\\Faculdade\\1 Repositorios Github\\C-programming-\\Hello_World\\main.cpp\"",
+  "file": "C:\\Users\\felip\\OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA\\Faculdade\\1 Repositorios Github\\C-programming-\\Hello_World\\main.cpp",
+  "output": "CMakeFiles\\Hello_World.dir\\main.cpp.obj"
+}
+]
