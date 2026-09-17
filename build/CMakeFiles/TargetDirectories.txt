@@ -1,0 +1,3 @@
+/home/pippo_su/github_repos/C-programming-/build/CMakeFiles/hello_world.dir
+/home/pippo_su/github_repos/C-programming-/build/CMakeFiles/edit_cache.dir
+/home/pippo_su/github_repos/C-programming-/build/CMakeFiles/rebuild_cache.dir

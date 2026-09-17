@@ -1,0 +1,3 @@
+/home/pippo_su/github_repos/C-programming-/Hello World/build-linux/CMakeFiles/hello_world.dir
+/home/pippo_su/github_repos/C-programming-/Hello World/build-linux/CMakeFiles/edit_cache.dir
+/home/pippo_su/github_repos/C-programming-/Hello World/build-linux/CMakeFiles/rebuild_cache.dir
