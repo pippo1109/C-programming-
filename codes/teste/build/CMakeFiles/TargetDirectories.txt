@@ -1,0 +1,3 @@
+C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/codes/teste/build/CMakeFiles/teste.dir
+C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/codes/teste/build/CMakeFiles/edit_cache.dir
+C:/Users/felip/OneDrive - SERVIÇO SOCIAL DA INDUSTRIA - SESI-BA/Faculdade/1 Repositorios Github/C-programming-/codes/teste/build/CMakeFiles/rebuild_cache.dir
